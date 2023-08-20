@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">My SKILLS</h2>
+<h1 align="left">Professional Skills</h1>
 
 ###
 
@@ -40,14 +40,28 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://www.colorwallpapers.com/uploads/wallpaper/hacker-wallpapers/width-853/xpzgyGXUeK7L-mask-anonymous-hacker-wallpapers-4k-hd.jpg"  />
-</div>
+<h2 align="left">Software</h2>
+
+###
+
+<p align="left">Burp Suite Pro<br>Veracode<br>Linux-Kali<br>Fortify<br>Netsparker<br>Nmap</p>
+
+###
+
+<h2 align="left">Certification</h2>
+
+###
+
+<p align="left">CEH<br>ISTQB<br>ISC2<br>CHFI<br>AZ -900 <br>AZ- 500<br>SC -100</p>
 
 ###
 
 <div align="center">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=6&theme=radical&username=prasad508" alt="Layout with last medium posts"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/prasad508/prasad508/output/snake.svg" alt="Snake animation" />
 
 ###
