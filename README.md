@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 Welcome To My Profile</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasad508&label=Profile%20views&color=0e75b6&style=flat" alt="prasad508" /> </p>
-###
 
+###
 
 <p align="left">My name is  Prasad and I'm a Security Analyst  from India.</p>
 
@@ -56,17 +56,12 @@
 <p align="left">CEH<br>ISTQB<br>ISC2<br>CHFI<br>AZ -900 <br>AZ- 500<br>SC -100</p>
 
 ###
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left">Follow Me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/prasadkeluskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prasadkeluskar" height="30" width="40" /></a>
 </p>
-
+<a href="https://medium.com/@prasad508" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@prasad508" height="30" width="40" /></a> 
 <div align="center">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=6&theme=radical&username=prasad508" alt="Layout with last medium posts"  />
 </div>
-
-###
-
-
-
-###
